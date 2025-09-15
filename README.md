@@ -102,9 +102,3 @@ App will be live at **[http://localhost:3000](http://localhost:3000)** 🎉
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to add.
 
 ---
-
-## 📜 License
-
-MIT License – feel free to use and build upon this project.
-
----
